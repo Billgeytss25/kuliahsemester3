@@ -1,0 +1,3 @@
+CREATE TABLE mahasiswa(
+id_mahasiswa INT AUTO_INCREMENT,
+nama VARCHAR(100) NOT NULL,

@@ -1,0 +1,5 @@
+CREATE TABLE mahasiswa
+(nim INT(10) AUTO_INCREMENT NOT NULL,
+nama VARCHAR(100),
+jurusan VARCHAR(50),
+PRIMARY KEY (nim))
